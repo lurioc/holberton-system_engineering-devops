@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R go=r+X .
+chmod a+x */
